@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author TANUS
- *
- */
-module NovLAB {
-}
